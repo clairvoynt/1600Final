@@ -9,6 +9,7 @@ The following is a brief summary of different file types and fun facts about the
 Audio Files
 MP3- .mp3
 This file type is often utilized for storing music because they take up little hard drive space.
+
 WAV- .wav
 This file type was widely popularized because of its release with Windows 95 but were later nullified by 
 MP3 files.
